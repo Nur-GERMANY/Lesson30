@@ -44,6 +44,6 @@ public class Main {
         System.out.println("    5) Показать типы товаров и их количество");
         System.out.println("    0) Выход в главное меню");
         while (true) {
-            int mainMenuItem = sc.nextInt();
+
     }
-}
+}}
